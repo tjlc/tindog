@@ -160,26 +160,20 @@ p {
 
 .h3-cta {
   font-style: "Montserrat";
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 900;
   color: #fff;
   padding-top: 3%;
   width: 50%;
   margin: auto;
-  text-align: 1;
-}
-
-.footer-button {
-  margin: 3% 2% 3% 0;
-  padding: 10px 20px;
-  font-size: 20px;
-  border-radius: 5px;
+  line-height: 1.5;
 }
 
 #footer {
   background-color: #fff;
   text-align: center;
   margin: 4% 0;
+  line-height: 1;
 }
 
 .footer-links {
